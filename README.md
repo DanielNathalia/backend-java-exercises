@@ -87,6 +87,6 @@ Após completar este plano (30 dias):
 
 ---
 
-**Autor:** DanielNathalia  
-**Data de Início:** 2026-07-27  
-**Duração:** 30 dias
+<p align="center">
+  <sub>Developed by Daniel Nathalia</sub>
+</p>
