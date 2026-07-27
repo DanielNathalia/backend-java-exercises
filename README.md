@@ -59,17 +59,17 @@ backend-java-exercises/
    ```
 
 4. **Para cada exercício:**
-   - Leia o arquivo `README.md` da semana
-   - Implemente os exercícios em `.java`
-   - Teste usando `javac` e `java`
+   - Começo lendo o arquivo `README.md` da semana
+   - Implemento os exercícios em `.java`
+   - Testo usando `javac` e `java`
 
 ## 💡 Dicas Importantes
 
 ✅ Código diariamente (mínimo 1 hora)  
-✅ Faça exercícios do zero sem copiar  
-✅ Use o debugger para entender execução  
-✅ Commit no Git após cada exercício concluído  
-✅ Não pule etapas - fundamentos são essenciais  
+✅ Faço exercícios do zero sem copiar  
+✅ Uso o debugger para entender execução  
+✅ Comito no Git após cada exercício concluído  
+✅ Não pulo etapas - fundamentos são essenciais  
 
 ## 📚 Referências Gerais
 
