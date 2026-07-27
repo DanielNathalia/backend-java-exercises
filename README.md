@@ -1,5 +1,9 @@
 # 📚 Backend Java Exercises - Plano de 30 Dias
 
+> [!TIP]
+> 📓 **Material de apoio:** Criei um notebook completo no **NotebookLM** para me ajudar a estudar Java durante esse plano de 30 dias — reunindo anotações, resumos e explicações dos conceitos de cada semana.
+> ### 👉 [Acessar o Notebook de Estudos](https://notebooklm.google.com/notebook/bb14756d-6141-4263-ade3-edd80e9cdb5f)
+
 ## 🎯 Objetivo
 Dominar os fundamentos de programação em Java (variáveis, tipos de dados, condicionais, laços e métodos) para criar uma base sólida em desenvolvimento back-end, preparando-se para conceitos avançados como POO, estruturas de dados e frameworks.
 
@@ -40,6 +44,19 @@ backend-java-exercises/
 - Métodos com parâmetros
 - Overloading
 - Projeto final integrado
+
+## 📓 Notebook de Estudos (NotebookLM)
+
+Durante esse plano de 30 dias, organizei meus estudos usando o **[NotebookLM](https://notebooklm.google.com/notebook/bb14756d-6141-4263-ade3-edd80e9cdb5f)**, uma ferramenta do Google que ajuda a estruturar anotações e revisar conteúdo de forma mais eficiente.
+
+Nesse notebook eu reúno:
+- 📝 Resumos dos principais conceitos de cada semana (variáveis, condicionais, laços, métodos)
+- 💡 Explicações em linguagem própria para fixar melhor o aprendizado
+- 🔗 Conexões entre os tópicos, facilitando a revisão antes de avançar pra próxima semana
+
+**[🔗 Acessar o Notebook completo](https://notebooklm.google.com/notebook/bb14756d-6141-4263-ade3-edd80e9cdb5f)**
+
+---
 
 ## 🚀 Como Usar
 
