@@ -178,13 +178,13 @@ Divisão: 3.28
 
 ## ✅ Checklist de Conclusão
 
-- [ ] Ambiente Java configurado e testado
-- [ ] HelloWorld.java compilado e executado
-- [ ] VariaveisBasicas.java funcionando
-- [ ] TiposPrimitivos.java com todos os tipos
-- [ ] ConversaoDeTipos.java implementado
-- [ ] CalculadoraSimples.java concluído
-- [ ] Todos os exercícios commitados no Git
+- [X] Ambiente Java configurado e testado
+- [X] HelloWorld.java compilado e executado
+- [X] VariaveisBasicas.java funcionando
+- [X] TiposPrimitivos.java com todos os tipos
+- [X] ConversaoDeTipos.java implementado
+- [X] CalculadoraSimples.java concluído
+- [X] Todos os exercícios commitados no Git
 
 ## 🚀 Próximas Semanas
 
