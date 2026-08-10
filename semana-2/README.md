@@ -193,12 +193,12 @@ Erro: Divisão por zero!
 
 ## ✅ Checklist de Conclusão
 
-- [ ] MaiorDeIguais.java funcionando
-- [ ] ValidadorDeIdade.java com todas as categorias
-- [ ] ValidadorDeNota.java com switch
-- [ ] VerificadorDePrimo.java implementado
-- [ ] CalculadoraComCondicionais.java concluído
-- [ ] Todos os exercícios commitados no Git
+- [x] MaiorDeIguais.java funcionando
+- [x] ValidadorDeIdade.java com todas as categorias
+- [x] ValidadorDeNota.java com switch
+- [x] VerificadorDePrimo.java implementado
+- [x] CalculadoraComCondicionais.java concluído
+- [x] Todos os exercícios commitados no Git
 
 ## 🚀 Próxima Semana
 
