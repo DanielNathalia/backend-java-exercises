@@ -213,13 +213,13 @@ Pirâmide:
 
 ## ✅ Checklist de Conclusão
 
-- [ ] TabelaDeNumeros.java funcionando
-- [ ] SomaDeNumeros.java com resultado correto
-- [ ] Tabuada.java com loops aninhados
-- [ ] ProcuraDePalavra.java com break
-- [ ] NumerosPares.java com continue
-- [ ] SerieDeSequencias.java concluído
-- [ ] Todos os exercícios commitados no Git
+- [x] TabelaDeNumeros.java funcionando
+- [x] SomaDeNumeros.java com resultado correto
+- [x] Tabuada.java com loops aninhados
+- [x] ProcuraDePalavra.java com break
+- [x] NumerosPares.java com continue
+- [x] SerieDeSequencias.java concluído
+- [x] Todos os exercícios commitados no Git
 
 ## 🚀 Próxima Semana
 
