@@ -259,13 +259,13 @@ Raiz de -4 = Erro: Não é possível raiz de número negativo!
 
 ## ✅ Checklist de Conclusão
 
-- [ ] MetodosBasicos.java funcionando
-- [ ] CalculadoraComMetodos.java concluído
-- [ ] OverloadingDeMetodos.java com 3 versões
-- [ ] ValidadoresComMetodos.java implementado
-- [ ] Calculadora.java (PROJETO FINAL) completo
-- [ ] Todos os exercícios commitados no Git
-- [ ] Plano de 30 dias FINALIZADO! 🎉
+- [X] MetodosBasicos.java funcionando
+- [X] CalculadoraComMetodos.java concluído
+- [X] OverloadingDeMetodos.java com 3 versões
+- [X] ValidadoresComMetodos.java implementado
+- [X] Calculadora.java (PROJETO FINAL) completo
+- [X] Todos os exercícios commitados no Git
+- [X] Plano de 30 dias FINALIZADO! 🎉
 
 ## 🚀 Próximos Passos
 
